@@ -1,0 +1,12 @@
+
+All authors:
+(1, 'John', 'Doe')
+(2, 'Jane', 'Smith')
+
+All books:
+(1, 'Python Programming', '123-4567891234', 1, 'Tech Books', 2020)
+(2, 'Data Science with Python', '234-5678902345', 2, 'Data Press', 2021)
+
+Books and Authors:
+('Python Programming', 'John', 'Doe')
+('Data Science with Python', 'Jane', 'Smith')
