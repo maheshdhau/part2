@@ -1,0 +1,20 @@
+
+Tables in the database:
+authors
+titles
+author_ISBN
+
+All records from the authors table:
+(1, 'J.K.', 'Rowling')
+(2, 'George', 'Orwell')
+(3, 'J.R.R.', 'Tolkien')
+
+All records from the titles table ordered by title:
+(1, '1984', 'George Orwell')
+(2, 'Harry Potter and the Sorcerer's Stone', 'J.K. Rowling')
+(3, 'The Hobbit', 'J.R.R. Tolkien')
+
+Authors and titles joined on ISBN:
+('J.K.', 'Rowling', 'Harry Potter and the Sorcerer's Stone')
+('George', 'Orwell', '1984')
+('J.R.R.', 'Tolkien', 'The Hobbit')
